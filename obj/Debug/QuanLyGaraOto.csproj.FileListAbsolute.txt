@@ -1,0 +1,34 @@
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\bin\Debug\QuanLyGaraOto.exe.config
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\bin\Debug\QuanLyGaraOto.exe
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\bin\Debug\QuanLyGaraOto.pdb
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.csprojAssemblyReference.cache
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.fLogin.resources
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.Properties.Resources.resources
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.csproj.GenerateResource.cache
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.csproj.CoreCompileInputs.cache
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.exe
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.pdb
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.fTableManager.resources
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.GUI.fChangePassWord.resources
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.fCreateAccount.resources
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.GUI.fQuanLyTienCong.resources
+E:\Projects\Projects_Visual\QuanLyGaraOto1\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.GUI.fQuanLyPhuTung1.resources
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\bin\Debug\QuanLyGaraOto.exe.config
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\bin\Debug\QuanLyGaraOto.exe
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\bin\Debug\QuanLyGaraOto.pdb
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.csprojAssemblyReference.cache
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.GUI.fChangePassWord.resources
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.fCreateAccount.resources
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.fLogin.resources
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.GUI.fQuanLyPhuTung1.resources
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.GUI.fQuanLyTienCong.resources
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.fTableManager.resources
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.Properties.Resources.resources
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.csproj.GenerateResource.cache
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.csproj.CoreCompileInputs.cache
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.exe
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.pdb
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\bin\Debug\QuanLyGaraOto.exe.manifest
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\bin\Debug\QuanLyGaraOto.application
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.exe.manifest
+D:\DAI HOC NAM 3\KI II\NHAP MON CNPM\DO AN\final\Do an\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.application
